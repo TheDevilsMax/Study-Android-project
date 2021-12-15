@@ -7,18 +7,6 @@
     tools:context=".MainActivity">
 
     <Button
-        android:id="@+id/SecondLab"
-        android:layout_width="277dp"
-        android:layout_height="73dp"
-        android:onClick="SecondLab"
-        android:text="Третья лабораторная"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.065" />
-
-    <Button
         android:id="@+id/FourthLab"
         android:layout_width="277dp"
         android:layout_height="73dp"
@@ -28,5 +16,30 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.176" />
+        app:layout_constraintVertical_bias="0.196" />
+
+    <Button
+        android:id="@+id/SecondLab"
+        android:layout_width="277dp"
+        android:layout_height="73dp"
+        android:onClick="SecondLab"
+        android:text="Третья лабораторная"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.085" />
+
+    <Button
+        android:id="@+id/FifthLab"
+        android:layout_width="277dp"
+        android:layout_height="73dp"
+        android:onClick="FifthLab"
+        android:text="Пятая лабораторная"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.306" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.StudyProject">
         <activity
+            android:name=".FifthLab"
+            android:exported="false" />
+        <activity
             android:name=".FourthLab"
             android:exported="true" />
         <activity

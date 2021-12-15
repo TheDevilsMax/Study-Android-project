@@ -21,4 +21,8 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, FourthLab.class);
         startActivity(intent);
     }
+    public void FifthLab(View view){
+        Intent intent = new Intent(this, FifthLab.class);
+        startActivity(intent);
+    }
 }
