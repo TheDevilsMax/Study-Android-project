@@ -3,11 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Greg the Pirate/Desktop/Studyproject/app/src/main/res/layout-land/activity_fifth_lab_land.xml" value="0.33" />
+        <entry key="..\:/Users/Greg the Pirate/Desktop/Studyproject/app/src/main/res/layout-land/activity_sixth_lab_land.xml" value="0.18165784832451498" />
         <entry key="..\:/Users/Greg the Pirate/Desktop/Studyproject/app/src/main/res/layout-land/layoutconfig.xml" value="0.17372134038800705" />
-        <entry key="..\:/Users/Greg the Pirate/Desktop/Studyproject/app/src/main/res/layout/activity_fifth_lab.xml" value="0.25" />
+        <entry key="..\:/Users/Greg the Pirate/Desktop/Studyproject/app/src/main/res/layout/activity_fifth_lab.xml" value="0.22" />
         <entry key="..\:/Users/Greg the Pirate/Desktop/Studyproject/app/src/main/res/layout/activity_fourth_lab.xml" value="0.2441123188405797" />
-        <entry key="..\:/Users/Greg the Pirate/Desktop/Studyproject/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Greg the Pirate/Desktop/Studyproject/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/Greg the Pirate/Desktop/Studyproject/app/src/main/res/layout/activity_second_lab.xml" value="0.2441123188405797" />
+        <entry key="..\:/Users/Greg the Pirate/Desktop/Studyproject/app/src/main/res/layout/activity_sixth_lab.xml" value="0.33" />
+        <entry key="..\:/Users/Greg the Pirate/Desktop/Studyproject/app/src/main/res/layout/activity_sixthseventh_lab.xml" value="0.31657608695652173" />
       </map>
     </option>
   </component>
